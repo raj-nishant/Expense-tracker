@@ -1,0 +1,13 @@
+h1 {
+  height: 100px;
+  color: red;
+  background-color: grey;
+  text-align: center;
+}
+.label {
+  background-color: rgb(122, 219, 31);
+  font-style: italic;
+}
+.expenseDiv {
+  background-color: #e4e9e5d8;
+}
