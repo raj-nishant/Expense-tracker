@@ -13,6 +13,8 @@ async function loadExpenses() {
   }
 }
 
+// functions
+
 async function saveExpense(e) {
   e.preventDefault();
   var amount = document.getElementById("Amount").value;
